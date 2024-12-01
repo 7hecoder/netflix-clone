@@ -240,9 +240,9 @@ footer .questions {
         padding: 5px 20px;
     }
 
-    .first {
+    /* .first {
         flex-wrap: wrap;
-    }
+    } */
 
     .secImg img {
         width: 305px;
