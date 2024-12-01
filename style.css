@@ -236,6 +236,10 @@ footer .questions {
         width: 100px;
     }
 
+    .btn {
+        padding: 5px 20px;
+    }
+
     .first {
         flex-wrap: wrap;
     }
