@@ -232,6 +232,10 @@ footer .questions {
         max-width: 90vw;
     }
 
+    nav img {
+        width: 100px;
+    }
+
     .first {
         flex-wrap: wrap;
     }
